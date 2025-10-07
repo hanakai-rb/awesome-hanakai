@@ -70,57 +70,25 @@ The modern web framework for Ruby. Fast, secure, and lightweight with a focus on
 ### Hanami Community Gems
 
 #### Assets & Frontend
-- [hanami-bootstrap](https://github.com/davydovanton/hanami-bootstrap) - Bootstrap wrapper for hanami framework
-- [jquery-hanami](https://rubygems.org/gems/jquery-hanami) - jQuery and jQuery-ujs driver for Hanami
-- [hanami-webpack](https://github.com/samuelsimoes/hanami-webpack) - Webpack as your asset pipeline in Hanami
 - [vite_hanami](https://github.com/ElMassimo/vite_ruby/tree/main/vite_hanami) - Vite.js as your asset pipeline in Hanami
 - [hanami-sprockets](https://github.com/andrew/hanami-sprockets) - Sprockets asset pipeline for Hanami
 
 #### Authentication & Authorization
-- [hanami-rodauth](https://github.com/davydovanton/hanami-rodauth) - Rodauth wrapper for hanami apps
-- [hanami-fumikiri](https://github.com/theCrab/hanami-fumikiri) - JWT authentication wrapper for hanami apps
-- [tachiban](https://github.com/sebastjan-hribar/tachiban) - Authentication with bcrypt for Hanami apps
-- [omniauth-hanami](https://github.com/katafrakt/omniauth-hanami) - Use Hanami repository as OAuth provider
-- [hanami-id](https://github.com/leemour/hanami_id) - Large authentication library with generators
 - [jay_doubleu_tee](https://github.com/hanamimastery/jay_doubleu_tee) - JWT authorization wrapper for all Ruby apps
 - [kan](https://github.com/davydovanton/kan) - Simple, light and functional authorization library
 
-#### File Uploading
-- [hanami-shrine](https://github.com/katafrakt/hanami-shrine) - Upload solution for Hanami using Shrine library
-
-#### Performance Monitoring
-- [newrelic-hanami](https://github.com/artemeff/newrelic-hanami) - NewRelic integration for Hanami
-
-#### Testing
-- [rspec-hanami](https://github.com/davydovanton/rspec-hanami) - RSpec Matchers for Hanami
-- [shoulda-hanami](https://github.com/mcorp/shoulda-hanami) - Making tests easy on the fingers and eyes
-- [hanami-fabrication](https://github.com/jodosha/hanami-fabrication) - Fabrication gem integration for Hanami
-
 #### Database
 - [rom_sql_graph](https://github.com/davydovanton/rom_sql_graph) - DB association graph for hanami and rom
-- [hanami-sequel](https://github.com/malin-as/hanami-sequel) - Sequel-only replacement of hanami-model
-- [hanami-rethinkdb](https://github.com/angeloashmore/hanami-rethinkdb) - RethinkDB adapter for Hanami::Model
-
-#### Pagination
-- [pagy](https://github.com/ddnexus/pagy) - The ultimate pagination ruby gem with [Hanami integration](http://katafrakt.me/2018/06/01/integrating-pagy-with-hanami/)
-- [hanami-pagination](https://github.com/davydovanton/hanami-pagination) - Pagination gem for hanami applications
-
-#### Events
-- [hanami-events-cloud_pubsub](https://github.com/broadlume/hanami-events-cloud_pubsub) - Google Cloud Pub/Sub adapter
 
 #### CLI Tools
-- [hanami-scaffold](https://github.com/davydovanton/hanami-scaffold) - Make hanami scaffolds faster
 - [hanami-zsh](https://github.com/davydovanton/hanami-zsh) - Zsh plugin for hanami projects
 
 #### API Development
-- [jsonapi-hanami](https://jsonapi-rb.org/) - Build JSON API-compliant APIs with Hanami
 - [hanami-jbuilder](https://github.com/vladfaust/hanami-jbuilder) - JBuilder templates support
-- [hanami-serializer](https://github.com/davydovanton/hanami-serializer) - Serializer library for hanami
 - [had](https://github.com/gdwrd/had) - Hanami API Documentation
 - [oas_hanami](https://github.com/a-chacon/oas_hanami) - Generate automatic interactive API documentation
 
 #### Deployment
-- [mina-hanami](https://github.com/mgrachev/mina-hanami) - Mina plugin for Hanami
 - [capistrano-hanami](https://github.com/mgrachev/capistrano-hanami) - Capistrano tasks for Hanami
 - [hanami-docker](https://github.com/gruz0/hanami-docker) - Dockerize your Hanami application
 - [mina-proteus](https://github.com/apontini/mina-proteus) - Mina plugin for deploying specific Hanami apps
